@@ -2,6 +2,9 @@
 
 We're the University of Houston Chapter of the National Society of Black Engineers (NSBE), a dynamic community committed to academic excellence, professional success, and positively impacting the Greater Houston area. 🌟
 
+## Our Mission
+To increase the number of culturally responsible Black Engineers who excel academically, succeed professionally and positively impact the community.
+
 ## What We Do
 - **Empower Students:** Through workshops, study groups, and career fairs, we aim to equip our members with the tools they need to thrive in STEM fields.
 - **Foster Connections:** We collaborate with industry partners, the Engineering Career Center, and our local community to provide networking and professional development opportunities.
